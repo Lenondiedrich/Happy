@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "nodemon src/server.js",
-    "build": "nodemon lib/index.js --exec babel-node --presets=es2015,stage-2"
+    "build": "nodemon --watch src/ --exec babel ./src --out-dir ./dist --source-maps --copy-files"
   },
   "keywords": [],
   "author": "",
