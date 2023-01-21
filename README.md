@@ -24,13 +24,15 @@
   <li>Express</li>
   <li>Nodemon</li>
   <li>SQLite</li>
+  <li>Leaflet</li>
   
 </ul
 
 <hr />
 
 <h3>📟 Layout da aplicação:</h3>
-  <img src="./.png" />
+  <img src="./happy.png" />
+  <img src="./happyDemo.gif />
   
 <h3>⚙️ Instalação: </h3>
 
