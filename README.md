@@ -32,7 +32,7 @@
 
 <h3>📟 Layout da aplicação:</h3>
   <img src="./happy.png" />
-  <img src="./happyDemo.gif />
+  <img src="./happyDemo.gif" />
   
 <h3>⚙️ Instalação: </h3>
 
